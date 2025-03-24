@@ -1,6 +1,7 @@
 # 💻 Hey, I'm Gokul!  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I+am+Gokul!;I+know+coding+and+hacking!;Ctrl+C+my+code,+Ctrl+V+your+problem!)](https://git.io/typing-svg)
 
+## 👀 Profile views:
 ![Visitor Count](https://profile-counter.glitch.me/{gokul0x50}/count.svg)
 
 ## 🌐 Socials:
@@ -8,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pgokul200301@gmail.com)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gokul0x50)  
 
-💬 **Ask me anything on Telegram!** [@Gokul0x50](https://t.me/Gokul0x50)  
+💬 **Ask me on Telegram for quick replies!** [@Gokul0x50](https://t.me/Gokul0x50)  
 
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
