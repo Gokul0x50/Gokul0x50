@@ -119,10 +119,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gokul0x50&theme=tokyonight&hide_border=true&layout=compact" alt="Coding Activity" />
-</div>
-
-<div align="center">
   <h3>🏆 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
 </div>
 
