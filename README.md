@@ -118,6 +118,26 @@
 
 ---
 
+## 📈 Coding Activity & GitHub Analytics
+
+<div align="center">
+  
+### 🔥 GitHub Activity Graph
+[![Gokul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokul0x50&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=gokul0x50&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📊 Profile Summary Cards
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokul0x50&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokul0x50&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gokul0x50&theme=tokyonight)
+
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/gokul0x50/gokul0x50/output/github-contribution-grid-snake.svg)
+
+</div>
+
 <div align="center">
   <h3>🏆 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
 </div>
@@ -126,6 +146,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=gokul0x50&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=gokul0x50&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul0x50&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+## 📈 Advanced GitHub Metrics
+![Metrics](https://metrics.lecoq.io/gokul0x50?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKolkata)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gokul0x50&icon=0&color=0)](https://visitcount.itsvg.in)
