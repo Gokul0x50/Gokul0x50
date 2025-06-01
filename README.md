@@ -148,7 +148,18 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul0x50&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ## 📈 Advanced GitHub Metrics
-![Metrics](https://metrics.lecoq.io/gokul0x50?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKolkata)
+
+### 🎯 Detailed Analytics
+![Metrics](https://metrics.lecoq.io/gokul0x50?template=classic&config.timezone=Asia%2FKolkata)
+
+### 📋 Alternative Metrics View
+![GitHub Metrics](https://github-readme-stats.vercel.app/api/wakatime?username=gokul0x50&layout=compact&theme=tokyonight&hide_border=true)
+
+### 🔥 Contribution Heatmap
+![GitHub Activity](https://ghchart.rshah.org/gokul0x50)
+
+### 💡 Coding Streaks & Habits
+![Productive Time](https://github-readme-stats.vercel.app/api/pin/?username=gokul0x50&repo=gokul0x50&theme=tokyonight&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gokul0x50&icon=0&color=0)](https://visitcount.itsvg.in)
