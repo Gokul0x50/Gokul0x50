@@ -1,195 +1,133 @@
-# 💻 Hey, I'm Gokul!
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF00&background=000000&center=false&vCenter=true&width=435&lines=Building+and+Breaking;Ctrl+C+my+code,+Ctrl+V+your+problem!;Wubba+Lubba+Dub+Dub!)](https://git.io/typing-svg)
+# 💻 Hey, I'm Gokul!  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I+am+Gokul!;I+know+coding+and+hacking!;Ctrl+C+my+code,+Ctrl+V+your+problem!)](https://git.io/typing-svg)
 
 ## 👀 Profile views:
 ![Visitor Count](https://profile-counter.glitch.me/{gokul0x50}/count.svg)
 
-```diff
-+ Building and Breaking things in my lab
-- Sometimes things go BOOM! That's just how science works, Morty!
-! "The difference between screwing around and science is writing it down" - Adam Savage
-```
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> What I Do:
-
-```bash
-#!/bin/bash
-
-while true; do
-  code() { echo "Writing clever code"; }
-  hack() { echo "Finding security vulnerabilities"; }
-  learn() { echo "Absorbing new technologies"; }
-  create() { echo "Building cool projects"; }
-  
-  code && hack && learn && create
-  
-  sleep 21600 # Take a 6-hour break
-done
-```
-
 ## 🌐 Socials:
-<p align="center">
-  <a href="https://linkedin.com/in/gokul0x50">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
-  </a>
-  <a href="mailto:pgokul200301@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
-  </a>
-  <a href="https://t.me/Gokul0x50">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokul0x50)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pgokul200301@gmail.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gokul0x50)  
 
-### 💬 Ask me on Telegram for quick replies! [@Gokul0x50](https://t.me/Gokul0x50)
+💬 **Ask me on Telegram for quick replies!** [@Gokul0x50](https://t.me/Gokul0x50)  
 
-## 💻 Tech Stack:
+# 💻 Tech Arsenal & Expertise
 
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="48" height="48" alt="Python" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" width="48" height="48" alt="Bash" />
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" width="48" height="48" alt="Nginx" />
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-  </tr>
-</table>
-
-```python
-class SecurityTools:
-    def __init__(self):
-        self.tools = {
-            "offensive": ["Kali Linux", "Metasploit", "Burp Suite", "Nmap", "Wireshark"],
-            "defensive": ["Snort", "Splunk", "ELK Stack", "Suricata", "Fail2Ban"],
-            "forensics": ["Autopsy", "Volatility", "FTK", "OSForensics", "ExifTool"]
-        }
-    
-    def display_tools(self):
-        print("⚔️ SECURITY ARSENAL ⚔️")
-        for category, tools in self.tools.items():
-            print(f"{category.upper()}: {', '.join(tools)}")
-
-# Initialize and display security tools
-security = SecurityTools()
-security.display_tools()
-```
-
-## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokul0x50&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokul0x50&theme=chartreuse-dark&hide_border=true" width="49%" alt="GitHub Streak"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cloud+Enthusiast;Cybersecurity+Expert;Problem+Solver;Code+Architect&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" alt="Tech Stack Animation">
 </div>
 
+## 🚀 Programming Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokul0x50&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,bash&theme=dark" alt="Programming Languages" />
 </p>
 
-## 🏆 Hacker Achievements:
-```
-┌──(gokul㉿kali)-[~/hacking]
-└─$ cat achievements.txt
-- Successfully completed 50+ CTF challenges
-- Identified and reported 15+ security vulnerabilities
-- Developed custom security tools for penetration testing
-- Contributed to open-source security projects
-- Built a secure cloud infrastructure on AWS
-```
+<div align="center">
 
-## 🔮 What's in my lab:
+![Python](https://img.shields.io/badge/Python-Expert-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=2d3142)
+![Java](https://img.shields.io/badge/Java-Advanced-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=2d3142)
+![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=2d3142)
+![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2d3142)
+![Bash](https://img.shields.io/badge/Bash-Advanced-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=2d3142)
+
+</div>
+
+## ☁️ Cloud & Infrastructure
 <p align="center">
-  <img src="https://media.giphy.com/media/l41JU9pUyosHzWyuQ/giphy.gif" width="300"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins&theme=dark" alt="Cloud Technologies" />
 </p>
 
-```markdown
-- 🧪 Custom built server rack
-- 💻 Multiple testing environments
-- 🛡️ Network security testbed
-- 🦠 Malware analysis sandbox
-- 🔬 Web application testing framework
-```
+<div align="center">
 
-## 📡 Current Projects:
-```javascript
-const projects = [
-  {
-    name: "Quantum Breach Detector",
-    description: "Next-gen security tool that uses quantum algorithms to detect intrusions",
-    status: "In Progress - 75% complete",
-    tech: ["Python", "Quantum Computing", "Machine Learning"]
-  },
-  {
-    name: "Secure Cloud Framework",
-    description: "Zero-trust architecture implementation for AWS environments",
-    status: "Active Development",
-    tech: ["AWS", "Terraform", "Docker", "Kubernetes"]
-  },
-  {
-    name: "Vulnerability Scanner X",
-    description: "Custom vulnerability scanner with AI-powered analysis",
-    status: "Beta Testing",
-    tech: ["Python", "Django", "React", "TensorFlow"]
-  }
-];
+![AWS](https://img.shields.io/badge/Amazon_AWS-Expert-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=2d3142)
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2d3142)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=2d3142)
 
-// Check back for updates!
-```
+</div>
+
+## 🌐 Web Technologies & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,react,nodejs,express&theme=dark" alt="Web Technologies" />
+</p>
+
+<div align="center">
+
+![Django](https://img.shields.io/badge/Django-Expert-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=2d3142)
+![Flask](https://img.shields.io/badge/Flask-Advanced-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=2d3142)
+![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=2d3142)
+![Node.js](https://img.shields.io/badge/Node.js-Proficient-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=2d3142)
+
+</div>
+
+## 🛠️ DevOps & System Administration
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,nginx,apache,git,github&theme=dark" alt="DevOps Tools" />
+</p>
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=2d3142)
+![Nginx](https://img.shields.io/badge/Nginx-Advanced-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=2d3142)
+![Apache](https://img.shields.io/badge/Apache-Advanced-D22128?style=for-the-badge&logo=apache&logoColor=white&labelColor=2d3142)
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2d3142)
+![GitHub](https://img.shields.io/badge/GitHub-Expert-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2d3142)
+
+</div>
+
+## 🗄️ Databases & Storage
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=dark" alt="Databases" />
+</p>
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2d3142)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2d3142)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=2d3142)
+![Redis](https://img.shields.io/badge/Redis-Proficient-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=2d3142)
+
+</div>
+
+## 🔐 Cybersecurity & Ethical Hacking
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali&theme=dark" alt="Security Tools" />
+</p>
+
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Expert-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=2d3142)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-Advanced-FF6B6B?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=2d3142)
+![OSINT](https://img.shields.io/badge/OSINT-Expert-4ECDC4?style=for-the-badge&logo=searchengineland&logoColor=white&labelColor=2d3142)
+![Vulnerability Assessment](https://img.shields.io/badge/Vuln_Assessment-Advanced-FFE66D?style=for-the-badge&logo=security&logoColor=black&labelColor=2d3142)
+
+</div>
+
+## 🎨 Design & Productivity
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,vim&theme=dark" alt="Design Tools" />
+</p>
+
+<div align="center">
+
+![Canva](https://img.shields.io/badge/Canva-Advanced-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=2d3142)
+![Figma](https://img.shields.io/badge/Figma-Intermediate-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=2d3142)
+![VS Code](https://img.shields.io/badge/VS_Code-Expert-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=2d3142)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-Advanced-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white&labelColor=2d3142)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="100%">
-</p>
+<div align="center">
+  <h3>🏆 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="200">
-</p>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gokul0x50&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=gokul0x50&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul0x50&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
-<p align="center">
-  <i>"The universe is big. It's vast and complicated and ridiculous. And sometimes, very rarely, impossible things just happen and we call them miracles."</i>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=gokul0x50&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <a href="https://github.com/gokul0x50" title="GitHub Profile"><img src="https://img.shields.io/badge/In_case_of_fire:-%F0%9F%A7%AF%20git%20commit,%20git%20push,%20%F0%9F%9A%92%20run-green?style=for-the-badge"></a>
-</p>
-
-<!-- 
-  Hidden Easter Egg: Wubba Lubba Dub Dub!
-  If you found this, you're as smart as Rick!
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
