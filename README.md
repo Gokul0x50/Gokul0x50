@@ -1,5 +1,5 @@
 # 💻 Hey, I'm Gokul!  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I+am+Gokul!;I+know+coding+and+hacking!;Ctrl+C+my+code,+Ctrl+V+your+problem!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I+am+Gokul!;I+know+coding+and+hacking!;it+works+on+my+machine!)](https://git.io/typing-svg)
 
 ## 👀 Profile views:
 ![Visitor Count](https://profile-counter.glitch.me/{gokul0x50}/count.svg)
@@ -123,13 +123,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gokul0x50&theme=tokyonight&hide_border=true&layout=compact" alt="Coding Activity" />
-</div>
 
-<div align="center">
-  <h3>🏆 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
-</div>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gokul0x50&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
