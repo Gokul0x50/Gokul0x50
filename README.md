@@ -1,17 +1,10 @@
 # 💻 Hey, I'm Gokul!  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I+am+Gokul!;I+know+coding+and+hacking!;it+works+on+my+machine!)](https://git.io/typing-svg)
 
-## 💀 Security Breach Monitor:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=SYSTEM+STATUS:+COMPROMISED;FIREWALL+STATUS:+BYPASSED;INTRUSIONS+DETECTED:&font=Fira%20Code&center=false&width=400&height=50&color=00ff00&size=16&pause=1800)](https://git.io/typing-svg)
+## ⚗️ Mad Science Laboratory:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=⚗️+Mixing+Dangerous+Chemicals...;🧬+DNA+Splicing+in+Progress...;💥+EXPLOSION+IMMINENT!;🔬+Counting+Lab+Victims:&font=Fira%20Code&center=false&width=500&height=50&color=f75c7e&size=15&pause=2500)](https://git.io/typing-svg)
 
-![Security Breaches](https://komarev.com/ghpvc/?username=gokul0x50&color=2d3142&style=for-the-badge&label=SECURITY+BREACHES)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokul0x50)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pgokul200301@gmail.com)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gokul0x50)  
-
-💬 **Ask me on Telegram for quick replies!** [@Gokul0x50](https://t.me/Gokul0x50)  
+![Lab Victims](https://komarev.com/ghpvc/?username=gokul0x50&abbreviated=true&color=ff6b6b&style=for-the-badge&label=LAB+VICTIMS)
 
 # 💻 Tech Arsenal & Expertise
 
