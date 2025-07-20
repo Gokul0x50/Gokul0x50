@@ -2,6 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I+am+Gokul!;I+know+coding+and+hacking!;it+works+on+my+machine!)](https://git.io/typing-svg)
 
 ## 👀 Profile views:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Counting+Lab+Experiments...;Tracking+Portal+Jumpers...;Monitoring+Security+Breaches...&font=Fira%20Code&center=false&width=400&height=45&color=f75c7e&size=16&pause=2000)](https://git.io/typing-svg)
+
 ![Lab Experiments](https://komarev.com/ghpvc/?username=gokul0x50&color=brightgreen&style=for-the-badge&label=LAB+EXPERIMENTS)
 
 ## 🌐 Socials:
