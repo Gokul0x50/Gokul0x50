@@ -1,8 +1,10 @@
 # 💻 Hey, I'm Gokul!  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I+am+Gokul!;I+know+coding+and+hacking!;it+works+on+my+machine!)](https://git.io/typing-svg)
 
-## 🧪 Lab Statistics:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🔬+Lab+Activity+Status:+ACTIVE;⚗️+Experiments+Running:+INFINITE;💀+Test+Subjects+Processed:&font=Fira%20Code&center=false&width=500&height=50&color=ff6b6b&size=14&pause=1500)](https://git.io/typing-svg)
+## 🌀 Interdimensional Portal Activity:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Portal+Gun+Status:+CHARGED;Dimension+Jumpers+Detected:;Reality+Breaches+Counted:&font=Fira%20Code&center=false&width=450&height=50&color=blueviolet&size=16&pause=2000)](https://git.io/typing-svg)
+
+![Portal Jumpers](https://komarev.com/ghpvc/?username=gokul0x50&color=blueviolet&style=for-the-badge&label=PORTAL+JUMPERS)
 
 ![Test Subjects](https://komarev.com/ghpvc/?username=gokul0x50&abbreviated=true&color=ff6b6b&style=for-the-badge&label=TEST+SUBJECTS)
 
