@@ -1,10 +1,10 @@
 # 💻 Hey, I'm Gokul!  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I+am+Gokul!;I+know+coding+and+hacking!;it+works+on+my+machine!)](https://git.io/typing-svg)
 
-## ⚗️ Mad Science Laboratory:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=⚗️+Mixing+Dangerous+Chemicals...;🧬+DNA+Splicing+in+Progress...;💥+EXPLOSION+IMMINENT!;🔬+Counting+Lab+Victims:&font=Fira%20Code&center=false&width=500&height=50&color=f75c7e&size=15&pause=2500)](https://git.io/typing-svg)
+## 💻 Cyber Chaos Monitor:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=C0D3+CH40S+1N1T14T3D;H4CK1NG+1N+PR0GR3SS...;SY5T3M+BR34CH35:&font=Fira%20Code&center=false&width=350&height=50&color=00ff41&size=16&pause=2000)](https://git.io/typing-svg)
 
-![Lab Victims](https://komarev.com/ghpvc/?username=gokul0x50&abbreviated=true&color=ff6b6b&style=for-the-badge&label=LAB+VICTIMS)
+![Hacks](https://komarev.com/ghpvc/?username=gokul0x50&color=2d3142&style=for-the-badge&label=SUCCESSFUL+HACKS)
 
 # 💻 Tech Arsenal & Expertise
 
