@@ -1,5 +1,5 @@
 # 💻 Hey, I'm Gokul!  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I+am+Gokul!;I+know+coding+and+hacking!;Ctrl+C+my+code,+Ctrl+V+your+problem!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I+am+Gokul!;I+know+coding+and+hacking!;it+works+on+my+machine!)](https://git.io/typing-svg)
 
 ## 👀 Profile views:
 ![Visitor Count](https://profile-counter.glitch.me/{gokul0x50}/count.svg)
@@ -116,38 +116,19 @@
 
 </div>
 
+## 🐍 GitHub Contribution
+
+![GitHub Snake](https://github.com/Gokul0x50/Gokul0x50/blob/output/github-contribution-grid-snake.svg)
+
+
 ---
 
-## 📈 Coding Activity & GitHub Analytics
 
-<div align="center">
-  
-### 🔥 GitHub Activity Graph
-[![Gokul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokul0x50&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=gokul0x50&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📊 Profile Summary Cards
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokul0x50&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gokul0x50&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gokul0x50&theme=tokyonight)
-
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/gokul0x50/gokul0x50/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<div align="center">
-  <h3>🏆 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
-</div>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gokul0x50&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+<!--  ![](https://github-readme-stats.vercel.app/api?username=gokul0x50&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  -->
 ![](https://nirzak-streak-stats.vercel.app/?user=gokul0x50&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokul0x50&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gokul0x50&icon=0&color=0)](https://visitcount.itsvg.in)
