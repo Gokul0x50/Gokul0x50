@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I+am+Gokul!;I+know+coding+and+hacking!;it+works+on+my+machine!)](https://git.io/typing-svg)
 
 ## 👀 Profile views:
-![Visitor Count](https://profile-counter.glitch.me/{gokul0x50}/count.svg)
+![](https://komarev.com/ghpvc/?username=gokul0x50&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokul0x50)  
