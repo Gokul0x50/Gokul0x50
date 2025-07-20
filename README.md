@@ -1,14 +1,10 @@
 # 💻 Hey, I'm Gokul!  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+I+am+Gokul!;I+know+coding+and+hacking!;it+works+on+my+machine!)](https://git.io/typing-svg)
 
-## 🌀 Interdimensional Portal Activity:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Portal+Gun+Status:+CHARGED;Dimension+Jumpers+Detected:;Reality+Breaches+Counted:&font=Fira%20Code&center=false&width=450&height=50&color=blueviolet&size=16&pause=2000)](https://git.io/typing-svg)
+## 💀 Security Breach Monitor:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=SYSTEM+STATUS:+COMPROMISED;FIREWALL+STATUS:+BYPASSED;INTRUSIONS+DETECTED:&font=Fira%20Code&center=false&width=400&height=50&color=00ff00&size=16&pause=1800)](https://git.io/typing-svg)
 
-![Portal Jumpers](https://komarev.com/ghpvc/?username=gokul0x50&color=blueviolet&style=for-the-badge&label=PORTAL+JUMPERS)
-
-![Test Subjects](https://komarev.com/ghpvc/?username=gokul0x50&abbreviated=true&color=ff6b6b&style=for-the-badge&label=TEST+SUBJECTS)
-
-![Lab Experiments](https://komarev.com/ghpvc/?username=gokul0x50&color=brightgreen&style=for-the-badge&label=LAB+EXPERIMENTS)
+![Security Breaches](https://komarev.com/ghpvc/?username=gokul0x50&color=2d3142&style=for-the-badge&label=SECURITY+BREACHES)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gokul0x50)  
